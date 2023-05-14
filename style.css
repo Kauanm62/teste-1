@@ -1,0 +1,70 @@
+/* body{
+     background-color: rgb(17, 19, 18); 
+} */
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 20px;
+    padding-left: 10px;
+    background-color: rgb(243, 238, 238);
+}
+
+a {
+    color: rgb(89, 198, 241);
+    text-decoration: none;
+}
+
+img.imgprincipal {
+    width: 150px;
+    height: 150px;
+    border-radius: 30%;
+    border: 5px solid rgb(241, 237, 237)
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(233, 234, 241);
+}
+
+p {
+    color: rgb(223, 227, 230);
+    margin: 5px;
+}
+
+#corpo {
+    display: flex;
+
+}
+
+#esquerdo {
+    width: 50%;
+}
+
+#direito {
+    width: 50%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.nomeposicoes{
+    display: flex;
+    justify-content: center;
+}
+
+.nomejogadores {
+    display: flex;
+
+}
+.imagensjogadores{
+    /* border: 1px solid red; */
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}

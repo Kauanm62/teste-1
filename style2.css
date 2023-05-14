@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(27, 29, 29);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30pt;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 20px;
+    padding-left: 10px;
+    background-color: rgb(243, 238, 238);
+}
